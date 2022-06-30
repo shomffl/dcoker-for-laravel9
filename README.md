@@ -9,7 +9,7 @@ docker-compose up -d
 ## Inertia.js React を使用する場合
 
 ```
-composer install laravel/breeze --dev
+composer require laravel/breeze --dev
 
 php artisan breeze:install react
 ```
